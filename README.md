@@ -123,5 +123,5 @@ The project contains well-documented scripts categorized as follows:
 
 ## 📄 License
 
-MIT License 
+This project is released under the [MIT License](LICENSE).
 
